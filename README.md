@@ -29,3 +29,15 @@ De app moet een eenvoudige, intuïtieve en gebruiksvriendelijke interface hebben
 Kun je me helpen met het genereren van de code voor deze todo-applicatie in Angular?
 
 ```
+start:
+ng new todo-app
+cd todo-app
+ng add @angular/material
+ik Volg de prompts om een thema te kiezen en Angular Material te configureren.
+
+De app werkt meteen, heb enkele vragen moeten stellen zoals de main app.component.html was nog steeds actief en zichtbaar
+deze heb ik dus met de hulp van chatgpt kunnen verwijderen en nu werkt de app zoals het hoort
+
+rond min 35 was de app klaar voor web
+dan heb ik gevraagd aan chatgpt hoe ik de app kan deployen naar een android app of ios
+
