@@ -47,3 +47,5 @@ deze app werkte ook na een beetje aanpassingen ik was klaar rond min 50
 
 ```
 
+Prestatie getest met android studio: profile 
+
