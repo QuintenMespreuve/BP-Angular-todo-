@@ -41,3 +41,9 @@ deze heb ik dus met de hulp van chatgpt kunnen verwijderen en nu werkt de app zo
 rond min 35 was de app klaar voor web
 dan heb ik gevraagd aan chatgpt hoe ik de app kan deployen naar een android app of ios
 
+
+Chatgpt rade me aan om Ionic CLI te installeren en met dit kon ik het wel op android testen
+deze app werkte ook na een beetje aanpassingen ik was klaar rond min 50
+
+```
+
